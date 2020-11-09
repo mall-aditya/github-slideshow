@@ -2,5 +2,5 @@
 layout: slides
 Title: "Welcome to our second slide"
 ---
-This is my first commit 
+Vote Kayne for President 
 Use left arrow to go back 
